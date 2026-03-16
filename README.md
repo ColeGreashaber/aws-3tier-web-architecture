@@ -35,7 +35,7 @@ Database:
 ### Security Groups
 ![Security Groups](screenshots/security-group-app(i).png)
 ![Security Groups](screenshots/security-group-app(o).png)
-![Security Groups](screenshots/security-group-db(i).png)
+![Security Groups](screenshots/securitygroup-db(i).png)
 ![Security Groups](screenshots/security-group-db(o).png)
 ![Security Groups](screenshots/security-group-web(i).png)
 ![Security Groups](screenshots/security-group-web(o).png)
