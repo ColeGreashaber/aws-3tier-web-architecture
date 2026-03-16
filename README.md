@@ -21,7 +21,7 @@ Database:
 - Port 3306
 
 ## Architecture Diagram
-(coming soon)
+![Architecture Diagram](diagrams/architecture-diagram.png)
 
 ## Screenshots
 (coming soon)
