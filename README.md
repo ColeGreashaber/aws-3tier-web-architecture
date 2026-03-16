@@ -87,3 +87,11 @@ During deployment several operational tasks were performed:
 - Configured environment variables for database connectivity
 - Troubleshot API connectivity between tiers
 - Verified database access from the backend server
+
+- ## Acknowledgments
+
+This project was implemented by following and adapting the tutorial below:
+
+- https://github.com/pravinmishraaws/book-review-app
+
+The deployment, configuration, troubleshooting, and documentation were completed independently to understand AWS 3-tier architecture concepts.
