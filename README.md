@@ -25,4 +25,4 @@ Database:
 
 ## Screenshots
 ![EC2](screenshots/ec2-instance(b).png)
-
+![EC2](screenshots/ec2-instance(f).png)
