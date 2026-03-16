@@ -41,4 +41,4 @@ Database:
 ![Security Groups](screenshots/security-group-web(o).png)
 
 ### Application Running
-![App](screenshots/working application.png) 
+![App](screenshots/application-running.png)
