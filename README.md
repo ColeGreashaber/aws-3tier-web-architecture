@@ -24,4 +24,5 @@ Database:
 ![Architecture Diagram](diagrams/architecture-diagram.png)
 
 ## Screenshots
-(coming soon)
+[!EC2](screenshots/ec2-instance(b).png)
+[!EC2](screenshots/ec2-instance(f).png)
