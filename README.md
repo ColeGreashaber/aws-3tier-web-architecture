@@ -23,6 +23,14 @@ Database:
 ## Architecture Diagram
 ![Architecture Diagram](diagrams/architecture-diagram.png)
 
-## Screenshots
+## Infrastructure
+
+### EC2 Instances
 ![EC2](screenshots/ec2-instance(b).png)
 ![EC2](screenshots/ec2instance(f).png)
+
+### RDS Database
+![RDS](screenshots/aws-rds-database-1.png)
+
+### Security Groups
+![Security Groups](
